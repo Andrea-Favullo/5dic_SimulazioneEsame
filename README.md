@@ -1,8 +1,8 @@
-# Simulazione d'esame del 5 dicembre 2025 
+# Descrizione 
 Simulazione d'esame del 5 dicembre 2025 presso l'ITS Angelo Rizzoli corso 3D Simulation and Metaverse specialist.
 <p>Si tratta di un progetto Unity, realizzato con il template MR, in cui l'utente può spegnere o accendere una lampada da notte posta su un comodino, in un'ambientazione notturna, mediante pannello UI.</p>
 
-# Come installare e scaricare questo repo
+# Installazione
 <ol>
   <li>
     Scaricare la versione Unity 6000.2.6f2.
